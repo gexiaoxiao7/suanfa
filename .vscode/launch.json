@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Solution",
             "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "suanfa_f97195cc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
             "mainClass": "Leetcode.Solution",
             "projectName": "suanfa_f97195cc"
         }
